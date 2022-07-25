@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @teerayuthton
+![download](https://user-images.githubusercontent.com/12950654/180751496-f24d986b-4758-465c-93ce-cbacd0dc02c9.png)
+
+- 👋 Hi, I’m Ton
 - 👀 I’m interested in Crypto, Coding, Automation, FPS games.
 - 🌱 I’m currently learning SwiftUI, Github Action
 - 💞️ I’m looking to collaborate on Github
