@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @teerayuthton
 - 👀 I’m interested in Crypto, Coding, Automation, FPS games.
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning SwiftUI, Github Action
 - 💞️ I’m looking to collaborate on Github
 - 📫 You to reach me at https://www.linkedin.com/in/teerayuthton/
 
