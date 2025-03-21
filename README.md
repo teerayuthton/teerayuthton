@@ -20,7 +20,7 @@ Here, you'll find my projects, research, and experiments in AI/ML.
 ---
 
 ## 📌 Pinned Projects
-🔹 **[Project 1: Simple prompt commands and how to connected with OpenAI API](https://github.com/teerayuthton/AI-Learning/tree/main/prompt_commands)**  
+🔹 **[Project 1: Simple prompt commands and how to connected with OpenAI API](https://github.com/teerayuthton/AI-Learning-Prompt/tree/main/prompt_commands/simple_call)**  
 _For learning technic of prompt with OpenAI API._
 
 ---
