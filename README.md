@@ -23,7 +23,7 @@ Here, you'll find my projects, research, and experiments in AI/ML.
 🔹 **[Simple prompt commands and how to connected with OpenAI API](https://github.com/teerayuthton/AI-Learning-Prompt/tree/main/prompt_commands/simple_call)**  
 _For learning technic of prompt with OpenAI API._
 
-🔹 **[Load JSON file from local](https://github.com/teerayuthton/AI-Learning-Query/tree/main/functions)**  
+🔹 **[Load JSON file from local](https://github.com/teerayuthton/AI-Learning-Query/tree/main/functions/import_json_from_local)**  
 _For Load JSON file from local for testing with query._
 
 ---
