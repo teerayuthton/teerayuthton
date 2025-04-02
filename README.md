@@ -23,6 +23,7 @@ Here, you'll find my projects, research, and experiments in AI/ML.
 
 ## 📌 Pinned Projects
 🔹 **[Project 1: Simple prompt commands](https://github.com/teerayuthton/AI-Learning-Prompt/tree/main/)**  
+_🔥Mini Real world project (Planing a trip to paris)_  
 _For learning Prompt commands. (Connect with OpenAI API, Summarize text, Majority Vote, Language translation)_
 
 🔹 **[Project 2: Simple Query functions.](https://github.com/teerayuthton/AI-Learning-Query/tree/main/)**  
