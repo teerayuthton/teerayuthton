@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Ton
 
-### 🚀 AI Engineer | Machine Learning | Deep Learning | Python Enthusiast
+### 🚀 AI Engineer | Machine Learning | Deep Learning 
 
 I am passionate about AI, machine learning, and deep learning. 
 My goal is to build innovative AI solutions and contribute to open-source projects. 
@@ -11,11 +11,13 @@ Here, you'll find my projects, research, and experiments in AI/ML.
 ---
 
 ## 🔥 Skills & Tools Learning
-- **Programming:** Python, TensorFlow, PyTorch, NumPy, Pandas, Scikit-learn
+- **Programming:** Python, TensorFlow, NumPy, Pandas, LangChain 
 - **AI/ML:** Neural Networks, Computer Vision, NLP, Reinforcement Learning
+- **Version Control:** Git, GitHub
+
+## Learning list
 - **Data Science:** Data Analysis, Visualization (Matplotlib, Seaborn), Feature Engineering
 - **DevOps & Deployment:** Docker, FastAPI, Streamlit, AWS, GCP
-- **Version Control:** Git, GitHub
 
 ---
 
