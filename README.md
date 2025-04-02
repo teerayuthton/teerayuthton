@@ -10,12 +10,12 @@ Here, you'll find my projects, research, and experiments in AI/ML.
 
 ---
 
-## 🔥 Skills & Tools Learning
+## 🔥 Skills & Tools (Learning...)
 - **Programming:** Python, TensorFlow, NumPy, Pandas, LangChain 
 - **AI/ML:** Neural Networks, Computer Vision, NLP, Reinforcement Learning
 - **Version Control:** Git, GitHub
 
-## Learning list
+## Learning list (On my Backlog)
 - **Data Science:** Data Analysis, Visualization (Matplotlib, Seaborn), Feature Engineering
 - **DevOps & Deployment:** Docker, FastAPI, Streamlit, AWS, GCP
 
