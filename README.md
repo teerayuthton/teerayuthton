@@ -29,6 +29,9 @@ _For learning Prompt commands. (Connect with OpenAI API, Summarize text, Majorit
 🔹 **[Project 2: Simple Query functions.](https://github.com/teerayuthton/AI-Learning-Query/tree/main/)**  
 _For learning Query commands. (Semantic search, Embeddings, Load JSON file from Local)_
 
+🔹 **[Project 3: TensorFlow.]"Pending...."**  
+_Project for learning and provide sample python script using TensorFlow library..._
+
 ---
 
 ## 📫 Connect With Me
