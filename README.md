@@ -30,7 +30,7 @@ _For learning Prompt commands. (Connect with OpenAI API, Summarize text, Majorit
 _For learning Query commands. (Semantic search, Embeddings, Load JSON file from Local)_
 
 🔹 **[Project 3: TensorFlow.](https://github.com/teerayuthton/AI-Learning-TensorFlow/tree/main/)**  
-_Project for learning and provide sample python script using TensorFlow library..._
+_For learning and provide sample python script using TensorFlow library..._
 
 ---
 
