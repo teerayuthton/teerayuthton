@@ -22,15 +22,18 @@ Here, you'll find my projects, research, and experiments in AI/ML.
 ---
 
 ## 📌 Pinned Projects
-🔹 **[Project 1: Simple prompt commands](https://github.com/teerayuthton/AI-Learning-Prompt/tree/main/)**  
-_🔥Mini Real world project (Planing a trip to paris)_  
+🔹 **[Simple prompt commands](https://github.com/teerayuthton/AI-Learning-Prompt/tree/main/)**  
+_🔥🔥Mini Real world project, Integration with Github Action(CI), Unit Test, Run app locally_  
 _For learning Prompt commands. (Connect with OpenAI API, Summarize text, Majority Vote, Language translation)_
 
-🔹 **[Project 2: Simple Query functions.](https://github.com/teerayuthton/AI-Learning-Query/tree/main/)**  
-_For learning Query commands. (Semantic search, Embeddings, Load JSON file from Local)_
-
-🔹 **[Project 3: TensorFlow.](https://github.com/teerayuthton/AI-Learning-TensorFlow/tree/main/)**  
+🔹 **[TensorFlow.](https://github.com/teerayuthton/AI-Learning-TensorFlow/tree/main/)**  
 _For learning and provide sample python script using TensorFlow library..._
+
+🔹 **[LangChain.](https://github.com/teerayuthton/AI-Learning-LangChain/tree/main/)**  
+_For learning and provide sample python script using LangChain library..._
+
+🔹 **[Simple Query functions.](https://github.com/teerayuthton/AI-Learning-Query/tree/main/)**  
+_For learning Query commands. (Semantic search, Embeddings, Load JSON file from Local)_
 
 ---
 
