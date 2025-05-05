@@ -27,6 +27,7 @@ _🔥🔥Mini Real world project, Integration with Github Action(CI), Unit Test,
 _For learning Prompt commands. (Connect with OpenAI API, Summarize text, Majority Vote, Language translation)_
 
 🔹 **[TensorFlow.](https://github.com/teerayuthton/AI-Learning-TensorFlow/tree/main/)**  
+_🔥🔥RAG with Chroma and Similarity search_
 _For learning and provide sample python script using TensorFlow library..._
 
 🔹 **[LangChain.](https://github.com/teerayuthton/AI-Learning-LangChain/tree/main/)**  
