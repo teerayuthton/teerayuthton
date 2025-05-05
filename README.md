@@ -26,12 +26,12 @@ Here, you'll find my projects, research, and experiments in AI/ML.
 _🔥🔥Mini Real world project, Integration with Github Action(CI), Unit Test, Run app locally_  
 _For learning Prompt commands. (Connect with OpenAI API, Summarize text, Majority Vote, Language translation)_
 
-🔹 **[TensorFlow.](https://github.com/teerayuthton/AI-Learning-TensorFlow/tree/main/)**  
-_🔥🔥RAG with Chroma and Similarity search_
-_For learning and provide sample python script using TensorFlow library..._
-
 🔹 **[LangChain.](https://github.com/teerayuthton/AI-Learning-LangChain/tree/main/)**  
+_🔥🔥RAG with Chroma and Similarity search_
 _For learning and provide sample python script using LangChain library..._
+
+🔹 **[TensorFlow.](https://github.com/teerayuthton/AI-Learning-TensorFlow/tree/main/)**  
+_For learning and provide sample python script using TensorFlow library..._
 
 🔹 **[Simple Query functions.](https://github.com/teerayuthton/AI-Learning-Query/tree/main/)**  
 _For learning Query commands. (Semantic search, Embeddings, Load JSON file from Local)_
